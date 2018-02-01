@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Net.Http;
 using System.Text;
-using Microsoft.AspNetCore.Hosting;
 using Newtonsoft.Json;
 
 namespace Microsoft.Extensions.Logging.Slack
